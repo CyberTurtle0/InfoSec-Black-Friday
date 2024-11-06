@@ -92,6 +92,11 @@ Academy: https://academy.tcm-sec.com/
 50% off of any All Access Membership with code: `GOBBLE24` \
 Deal ends: 2nd December
 
+**QA.com (Cloud Academy) - Online Training \
+https://www.qa.com/self-paced-learning/
+40% off yearly plan for 1 user (Cost $240 a year) (NO COUPON REQUIRED) \
+Deal ends: no date right now
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
