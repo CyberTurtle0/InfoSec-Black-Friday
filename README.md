@@ -136,6 +136,12 @@ https://training.ksec.co.uk/
 10% off all training courses with code: `BF2024` \
 Deal valid: 25th - 30th November
 
+**Pluralsight A Cloud Guru** - Cloud Training and more \ 
+https://www.pluralsight.com/cloud-guru 
+Personal Basic $139 a year (~60% off 2024NOVPRIVATE original $348.00 per year)
+Personal Plus $187 a year (~60% off 2024NOVPRIVATE original $468.00 per year)
+Coupon Code - 2024NOVPRIVATE Deal Valid (no date provided)
+
 **HackTricks Training** \
 https://training.hacktricks.xyz  
 -20% on all courses & -30% on course bundles (The discounts are applied automatically in the web) \
